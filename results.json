@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id_comment": "67",
+            "nama": "RdFariz",
+            "comment": "Web Designer\/Development"
+        },
+        {
+            "id_comment": "68",
+            "nama": "Fariz",
+            "comment": "Iam student in telkom university"
+        },
+        {
+            "id_comment": "69",
+            "nama": "ais",
+            "comment": "hayy,, who am i? :(("
+        },
+        {
+            "id_comment": "72",
+            "nama": "heem",
+            "comment": "heem"
+        },
+        {
+            "id_comment": "73",
+            "nama": "json",
+            "comment": "xml"
+        }
+    ]
+}
